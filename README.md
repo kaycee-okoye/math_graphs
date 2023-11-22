@@ -1,20 +1,22 @@
-# MAthGraphs Flutter Package
+# MathGraphs Flutter Package
 
-MAthGraphs is a Flutter Dart package that simplifies the process of adding and customizing various
+MathGraphs is a Flutter Dart package that simplifies the process of adding and customizing various
 graphs to your cross-platform Flutter applications. The package is designed to be user-friendly and
 allows you to quickly integrate pie graphs, bar graphs, scatter graphs, and ring graphs into your
 application. These graphs seamlessly scale to the available space, providing a responsive and
 visually appealing data visualization solution.
 
-<img src="sample_graphs/budget_list.png" alt="Sample Pie Graph" height="400"/> &nbsp
-<img src="sample_graphs/overview_tab.png" alt="Sample Ring Graph" height="400"/> &nbsp
-<img src="sample_graphs/recurring_transactions.png" alt="Sample Bar Graph" height="400"/> &nbsp
-<img src="sample_graphs/review_tab.png" alt="Sample Scatter Graph" height="400"/> &nbsp
-<img src="sample_graphs/upcoming_tab.png" alt="Sample Bar Graph" height="400"/>
+<p>
+  <img src="sample_graphs/budget_list.png" alt="Sample Pie Graph" height="400"/> &nbsp
+  <img src="sample_graphs/overview_tab.png" alt="Sample Ring Graph" height="400"/> &nbsp
+  <img src="sample_graphs/recurring_transactions.png" alt="Sample Bar Graph" height="400"/> &nbsp
+  <img src="sample_graphs/review_tab.png" alt="Sample Scatter Graph" height="400"/> &nbsp
+  <img src="sample_graphs/upcoming_tab.png" alt="Sample Bar Graph" height="400"/>
+</p>
 
 ## Installation
 
-To use MAthGraphs in your Flutter project, add the following dependency to your `pubspec.yaml` file:
+To use MathGraphs in your Flutter project, add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
